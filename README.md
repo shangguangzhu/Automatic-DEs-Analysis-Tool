@@ -28,10 +28,10 @@ After that, use **yolov5\train.py** to train the YOLO model and there are five p
 ## 6.Cite
 If you find this project useful in your research, please consider cite:
 ```latex
-@misc{Automatic DEs Analysis Tool,
-    title={Automatic DEs Analysis Tool},
-    author={Guangzhu Shang et.al},
-    howpublished = {\url{https://github.com/shangguangzhu/Automatic-DEs-Analysis-Tool}},
-    year={2022}
+@article{shangai,
+  title={AI-Guided Droplet Microreactors Enable Rapid and Reproducible Protein Crystallization},
+  author={Shang, Guangzhu and Zheng, Peiyi and Ni, Hengzhi and Wei, Shan and Li, Luoquan and Lei, Xingyue and Wu, Zerui and He, Xiaogang and Wang, Zirui and Zhu, Zhongliang and others},
+  journal={Small (Weinheim an der Bergstrasse, Germany)},
+  pages={e10977}
 }
 ```
